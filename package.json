@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "bun build.ts",
+    "test": "bun test --watch",
     "fmt": "prettier --write ."
   },
   "devDependencies": {
